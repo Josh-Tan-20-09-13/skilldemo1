@@ -1,5 +1,5 @@
 public class code {
     public static int add(int i) {
-        return i + 1;
+        return i + 3;
     }
 }
